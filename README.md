@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dineshgopal29, Software Professional, AI & Machine Learning Aficionado, Sports Enthusiast
 - 👀 I’m interested in AI and software development
-- 🌱 I’m currently learning machine learning and analytics
-- 💞️ I’m looking to collaborate on machine learning and cloud projects
+- 🌱 I’m currently working on Gen AI and machine learning use cases
+- 💞️ I’m looking to collaborate on Gwn AI projects
 
 
 <!---
